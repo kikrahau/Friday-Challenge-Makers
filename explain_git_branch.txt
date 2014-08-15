@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+Branches help us to create independent lines of development. So if we create branches and change to them, we can commit several changes, see what happens to the code, without actually committing changes to the original files. So we can use them for testing or or other purposes. Once we are sure our tests on the 'testing branch' work, we can merge them with the master branch.
