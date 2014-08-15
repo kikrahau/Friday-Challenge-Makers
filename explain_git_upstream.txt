@@ -1,1 +1,1 @@
-Explain what the 'upstream' remote is usually used for, in your own words
+Upstream is related to the push and pull command. Adding -u or -upstream to your push command, pushes the changes to the upstream branch. In our case to the Master. In other cases it could be any other upstream branch, but it's going to push always to the branch, where it pulled from originally.
