@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Clone will copy a directory of the main branch  and store it locally on your computer. It also copies the entire history of that project.
